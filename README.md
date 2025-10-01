@@ -11,7 +11,7 @@
   🎮 Hobbies: Playing Electric & Acoustic Guitar, Gaming, Watching Films/Series, and Photography <br>  
   🎯 To grow into a skilled developer <br>
 </p>  
-  <img src="https://github-readme-stats.vercel.app/api?username=cksumalinog&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cksumalinog&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   
 <br>
 
