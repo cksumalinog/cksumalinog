@@ -12,6 +12,8 @@
   🎯 To grow into a skilled developer <br>
 </p>  
   <img src="https://github-readme-stats.vercel.app/api?username=cksumalinog&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
+  
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
@@ -24,6 +26,8 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white">
 </p>
+
+<br>
 
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
