@@ -5,14 +5,16 @@
   I strive to sharpen my skills, embrace challenges, and grow into a better developer every day.  
 </p>  
 </br>
- <p>
+<p>
   🧑🏼‍🎓 Computer Science Student — University of the Cordilleras <br>
   📍 Baguio City, Philippines <br> 
   🎮 Hobbies: Playing Electric & Acoustic Guitar, Gaming, Watching Films/Series, and Photography <br>  
   🎯 To grow into a skilled developer <br>
-</p>  
+</p>
+<br><br>
+<p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cksumalinog&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" />
-  
+</p>
 <br>
 
 <h2 align="center">💻 Tech Stack</h2>
