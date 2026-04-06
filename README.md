@@ -4,6 +4,9 @@
   💡 Dedicated to learning, building, and continually improving through every project.<br>
   I strive to sharpen my skills, embrace challenges, and grow into a better developer every day.  
 </p>  
+<p align = "center">
+  It's not about being the best; it's about becoming your best.
+</p> 
 </br>
 <p>
   🧑🏼‍🎓 Computer Science Student — University of the Cordilleras <br>
