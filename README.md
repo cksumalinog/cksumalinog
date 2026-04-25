@@ -9,7 +9,7 @@
 </p> 
 </br>
 <p>
-  🧑🏼‍🎓 Computer Science Student — University of the Cordilleras <br>
+  🧑🏼‍🎓 Computer Science Student @ University of the Cordilleras <br>
   📍 Baguio City, Philippines <br> 
   🎮 Hobbies: Playing Electric & Acoustic Guitar, Gaming, Watching Films/Series, and Photography <br>  
   🎯 To grow into a skilled developer <br>
